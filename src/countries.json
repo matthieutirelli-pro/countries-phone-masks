@@ -539,7 +539,7 @@
     "code": "+33",
     "iso": "FR",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/fr.svg",
-    "mask": "(###)###-###"
+    "mask": "## ## ## ## ##"
   },
   {
     "name": "French Guiana",
